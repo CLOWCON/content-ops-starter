@@ -7,7 +7,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Empowering Businesses with Expert Solutions
     text: >
       Clowcon Solutions Limited is a multi-disciplinary consultancy firm
       dedicated to providing tailored services to businesses across various
